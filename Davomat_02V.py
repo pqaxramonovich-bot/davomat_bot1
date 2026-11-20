@@ -30,7 +30,7 @@ BOT_TOKEN = os.getenv("BOT_TOKEN", "8977586369:AAHr-eQDJncP7SOSEbp3lhGA9FeAo8ahi
 PORT = int(os.getenv("PORT", "10000"))
 
 ADMIN_IDS = {
-    1111917826,
+    1111917826, 8046037648,
 }
 
 DB_NAME = "davomat.db"
